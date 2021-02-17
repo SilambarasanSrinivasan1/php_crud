@@ -1,0 +1,47 @@
+.container {
+    max-width: 960px;
+  }
+  
+  .border-top { border-top: 1px solid #e5e5e5; }
+  .border-bottom { border-bottom: 1px solid #e5e5e5; }
+  .border-top-gray { border-top-color: #adb5bd; }
+  
+  .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+  
+  .lh-condensed { line-height: 1.25; }
+  
+  body{
+    background-color : coral;
+       }
+
+
+       .content {
+        margin: 0 auto;
+        width: 400px;
+    }
+    
+    table, td, th {
+        border: 1px solid #aaa;
+    }
+    
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    
+    th {
+        height: 30px;
+    }
+    
+    td {
+        text-align: center;
+        padding: 5px;
+    }
+    
+    .form {
+        margin-top: 20px;
+    }
+    
+    #content {
+        width: 70%;
+    }
